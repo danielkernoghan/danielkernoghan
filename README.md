@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Daniel 👋
 
-<!--
-**danielkernoghan/danielkernoghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student at the University of Waterloo studying **Mathematical Optimization and Statistics**.
 
-Here are some ideas to get you started:
+🧠 My interests lie at the intersection of:
+- Optimization & Algorithms
+- Machine Learning & NLP
+- Financial Modeling & Data Analytics
+- Solving real-world problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I enjoy building:
+- Tools that extract insights from complex data
+- ML-driven decision systems
+
+📊 Projects I have worked on:
+- A stock/ETF/commodity advisory tool using financial and news data
+- A document pipeline using OCR + BERT/LayoutLM for automating fax processing
+- Graph theory and linear programming models from coursework
+
+🌐 Connect with me:
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/daniel-kernoghan-081474260/))
+
+🔧 Tech I work with:
+`Python` | `Pandas` | `Scikit-learn` | `Pytorch` | `Tesseract` | `NumPy` | `SQL` | `JavaScript` | `Power BI` 
+
+Thanks for stopping by!
