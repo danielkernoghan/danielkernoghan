@@ -20,7 +20,7 @@
 🌐 Connect with me:
 - [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/daniel-kernoghan-081474260/))
 
-🔧 Tech I work with:
+🔧 I have experience in:
 `Python` | `Pandas` | `Scikit-learn` | `Pytorch` | `Tesseract` | `NumPy` | `SQL` | `JavaScript` | `Power BI` 
 
 Thanks for stopping by!
