@@ -4,18 +4,20 @@ I'm a student at the University of Waterloo studying **Mathematical Optimization
 
 My interests lie at the intersection of:
 - Optimization & Algorithms
-- Machine Learning & NLP
-- Financial Modeling & Data Analytics
+- Machine Learning
+- Financial Modeling, Data Science, & Data Analytics
 - Solving real-world problems
 
 I enjoy building:
 - Tools that extract insights from complex data
 - ML-driven decision systems
+- Tools and solutions to everyday problems
 
 Projects I have worked on:
 - A stock/ETF/commodity advisory tool using financial and news data
 - A document pipeline using OCR + BERT/LayoutLM for automating fax processing
 - Graph theory and linear programming models from coursework
+- Computer vision model for facial recognition and golf swing analysis
 
 I have experience in:
 `Python` | `Pandas` | `Scikit-learn` | `Pytorch` | `Tesseract` | `NumPy` | `SQL` | `JavaScript` | `Power BI` 
